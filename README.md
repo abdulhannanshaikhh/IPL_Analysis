@@ -41,6 +41,10 @@ Project Organization
 Version Control
 Time Management
 
+Library Requirements:
+NumPy
+Pandas
+Matplotlib
 
 
 
